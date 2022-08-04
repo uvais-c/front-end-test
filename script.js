@@ -8,7 +8,7 @@ let jsonObj={
           "name": "Cosmetics",
           "productList": [
               {
-                  "name": "Hair  kaif Oil",
+                  "name": "Hair Oil",
                   "price": 122
               },
               {
