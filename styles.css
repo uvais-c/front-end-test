@@ -1,0 +1,25 @@
+.box{
+  height:200px;
+  width:200px;
+  border:1px blue solid;
+  padding: 10px;
+}
+.flex{
+  width:600px;
+  display:flex;
+  justify-content:space-between;
+}
+.link{
+  background-color: aqua;
+  width:170px;
+  text-align:center;
+  font-size:15px;
+  padding:5px;
+  margin-left: 10px;
+  margin-bottom:15px;
+}
+button{
+  background-color:aqua;
+  border:0px;
+  cursor:pointer;
+}
